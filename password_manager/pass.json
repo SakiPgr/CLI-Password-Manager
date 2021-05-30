@@ -1,0 +1,14 @@
+{
+    "Hello": {
+        "password": "$2b$12$zQAdyQfbXZqa8.LU0ZFWg.YybK23JKUOKeCDBFQhrwqp6YOKy7rx2",
+        "entries": {
+            "google": "blub",
+            "blub": "blab",
+            "saki": "ikas"
+        }
+    },
+    "John": {
+        "password": "$2b$12$qb34zQ2Esywbfjj36JBN4uOBENLGCzinfSR7qhrwBDIzx15/aiRxq",
+        "entries": {}
+    }
+}
